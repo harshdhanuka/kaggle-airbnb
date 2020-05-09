@@ -1,7 +1,7 @@
 ## kaggle-airbnb
 This repository contains information about the Kaggle Closed Competition on "Airbnb Rental Price Predictor Model". 
 
-##### The competition name was 'Predicting Rental Price': Predict rental price using data on renter, property and reviews.
+##### The competition name was 'Predicting Rental Price': Predict rental price using data on renter, property and reviews.(https://www.kaggle.com/c/pricelala2?rvi=1)
 
 ##### Following description has been obtained directly from the Kaggle Competition page. 
 
